@@ -9,8 +9,6 @@ import { ChatService } from "./providers/chat.service";
 })
 
 export class AppComponent {
- 
   constructor(public chatSv: ChatService) {
   }
-
 }

@@ -40,5 +40,4 @@ export class ChatComponent implements OnInit {
       console.log('error' + err);
     });
   }
-
 }

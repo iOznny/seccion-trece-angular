@@ -17,5 +17,4 @@ export class LoginComponent {
   login(prov: string) {
     this.chatSv.login(prov);
   }
-
 }
