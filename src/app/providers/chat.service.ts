@@ -73,5 +73,4 @@ export class ChatService {
 
     return this.itemsCollection.add(message);
   }
-
 }
