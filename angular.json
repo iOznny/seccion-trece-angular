@@ -117,8 +117,16 @@
               "devServerTarget": "seccion-trece-angular:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "seccion-trece-angular"
+    }
+  },
+  "defaultProject": "seccion-trece-angular",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-angular-15488": {
+      "hosting": {
+        "seccion-trece-angular": [
+          "chat-angular-15488"
+        ]
+      }
+    }
+  }
+}
